@@ -1,0 +1,1395 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="#item_22">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2041-1723"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Wenfeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Guofeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>He</foaf:surname>
+                        <foaf:givenName>Jian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shen</foaf:surname>
+                        <foaf:givenName>Xiaofang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xiong</foaf:surname>
+                        <foaf:givenName>Muya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xiong</foaf:surname>
+                        <foaf:givenName>Liwei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Qi</foaf:surname>
+                        <foaf:givenName>Zhihao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xie</foaf:surname>
+                        <foaf:givenName>Hang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Wanchen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Jiameng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dou</foaf:surname>
+                        <foaf:givenName>Huixia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Hangchen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Su</foaf:surname>
+                        <foaf:givenName>Haixia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shao</foaf:surname>
+                        <foaf:givenName>Qiang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Minjun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Hongbin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Yechun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_23"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Humans</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Drug Design</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Allosteric Regulation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Allosteric Site</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Cyclic Guanosine Monophosphate-Adenosine Monophosphate Synthase</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>DNA</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Enzyme Inhibitors</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>HEK293 Cells</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Nucleotidyltransferases</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>De novo design of protein condensation inhibitors by targeting an allosteric site of cGAS</dc:title>
+        <dcterms:abstract>Cyclic GMP-AMP synthase (cGAS), a key mediator of the cGAS-STING DNA sensing pathway that triggers type-I interferon responses, plays a crucial role in innate immunity and has been implicated in the pathogenesis of various disease. Despite advances in the development of cGAS inhibitors, none have reached the market and there remains an unmet need for divergent chemical scaffolds with high selectivity, potency across species, and target-adaptive mechanisms of action to explore cGAS's potential as a therapeutic target. Here we report the structural, biochemical, cellular, and mechanistic characterization of the XL series of allosteric inhibitors, designed to engage an innovative allosteric site near the activation loop of cGAS. Among them, XL-3156 and XL-3158 emerge as potent, selective, cross-species cGAS inhibitors that simultaneously occupy allosteric and orthosteric sites, stabilizing the activation loop in a closed, inactive conformation and thereby attenuating the cGAS-DNA interactions. Moreover, these allosteric inhibitors, also known as protein condensation inhibitors (PCIs), significantly suppress cGAS-DNA condensate formation, triggering a morphological transition from liquid-solid phase separation (LSPS) to liquid-liquid phase separation (LLPS) at the molecular level while eliminating LLPS in cells. The distinct mechanism of action enables PCIs to achieve synergistic effects in combination with orthosteric inhibitors. These results establish a mechanism-driven pharmacological strategy to inhibit cGAS through PCIs that modulate phase separation primarily by engagement of the allosteric site.</dcterms:abstract>
+        <dc:date>2025-06-03</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>PubMed</z:libraryCatalog>
+        <bib:pages>5140</bib:pages>
+        <z:PMID>40461475</z:PMID>
+        <z:PMCID>PMC12134298</z:PMCID>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2041-1723">
+        <dc:identifier>DOI 10.1038/s41467-025-60297-0</dc:identifier>
+        <prism:volume>16</prism:volume>
+        <dc:title>Nature Communications</dc:title>
+        <dc:identifier>ISSN 2041-1723</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Nat Commun</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/40461475</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 10:04:11</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pmc.ncbi.nlm.nih.gov/articles/PMC10204179/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0961-8368"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goverde</foaf:surname>
+                        <foaf:givenName>Casper A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wolf</foaf:surname>
+                        <foaf:givenName>Benedict</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khakzad</foaf:surname>
+                        <foaf:givenName>Hamed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rosset</foaf:surname>
+                        <foaf:givenName>Stéphane</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Correia</foaf:surname>
+                        <foaf:givenName>Bruno E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_30"/>
+        <link:link rdf:resource="#item_31"/>
+        <dc:title>De novo protein design by inversion of the AlphaFold structure prediction network</dc:title>
+        <dcterms:abstract>De novo protein design enhances our understanding of the principles that govern protein folding and interactions, and has the potential to revolutionize biotechnology through the engineering of novel protein functionalities. Despite recent progress in computational design strategies, de novo design of protein structures remains challenging, given the vast size of the sequence‐structure space. AlphaFold2 (AF2), a state‐of‐the‐art neural network architecture, achieved remarkable accuracy in predicting protein structures from amino acid sequences. This raises the question whether AF2 has learned the principles of protein folding sufficiently for de novo design. Here, we sought to answer this question by inverting the AF2 network, using the prediction weight set and a loss function to bias the generated sequences to adopt a target fold. Initial design trials resulted in de novo designs with an overrepresentation of hydrophobic residues on the protein surface compared to their natural protein family, requiring additional surface optimization. In silico validation of the designs showed protein structures with the correct fold, a hydrophilic surface and a densely packed hydrophobic core. In vitro validation showed that 7 out of 39 designs were folded and stable in solution with high melting temperatures. In summary, our design workflow solely based on AF2 does not seem to fully capture basic principles of de novo protein design, as observed in the protein surface's hydrophobic vs. hydrophilic patterning. However, with minimal post‐design intervention, these pipelines generated viable sequences as assessed experimental characterization. Thus, such pipelines show the potential to contribute to solving outstanding challenges in de novo protein design.</dcterms:abstract>
+        <dc:date>2023-6-01</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC10204179/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 13:57:13</dcterms:dateSubmitted>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <bib:pages>e4653</bib:pages>
+        <z:PMID>37165539</z:PMID>
+        <z:PMCID>PMC10204179</z:PMCID>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0961-8368">
+        <dc:identifier>DOI 10.1002/pro.4653</dc:identifier>
+        <prism:volume>32</prism:volume>
+        <dc:title>Protein Science : A Publication of the Protein Society</dc:title>
+        <dc:identifier>ISSN 0961-8368</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Protein Sci</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_30">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Catalog Page</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC10204179/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 13:57:13</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/31/Goverde et al. - 2023 - De novo protein design by inversion of the AlphaFold structure prediction network.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC10204179/pdf/PRO-32-e4653.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 13:57:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pmc.ncbi.nlm.nih.gov/articles/PMC10468394/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0028-0836"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Watson</foaf:surname>
+                        <foaf:givenName>Joseph L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Juergens</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bennett</foaf:surname>
+                        <foaf:givenName>Nathaniel R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Trippe</foaf:surname>
+                        <foaf:givenName>Brian L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yim</foaf:surname>
+                        <foaf:givenName>Jason</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eisenach</foaf:surname>
+                        <foaf:givenName>Helen E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahern</foaf:surname>
+                        <foaf:givenName>Woody</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Borst</foaf:surname>
+                        <foaf:givenName>Andrew J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ragotte</foaf:surname>
+                        <foaf:givenName>Robert J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Milles</foaf:surname>
+                        <foaf:givenName>Lukas F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wicky</foaf:surname>
+                        <foaf:givenName>Basile I. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hanikel</foaf:surname>
+                        <foaf:givenName>Nikita</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pellock</foaf:surname>
+                        <foaf:givenName>Samuel J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Courbet</foaf:surname>
+                        <foaf:givenName>Alexis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sheffler</foaf:surname>
+                        <foaf:givenName>William</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Jue</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Venkatesh</foaf:surname>
+                        <foaf:givenName>Preetham</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sappington</foaf:surname>
+                        <foaf:givenName>Isaac</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Torres</foaf:surname>
+                        <foaf:givenName>Susana Vázquez</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lauko</foaf:surname>
+                        <foaf:givenName>Anna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Bortoli</foaf:surname>
+                        <foaf:givenName>Valentin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mathieu</foaf:surname>
+                        <foaf:givenName>Emile</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ovchinnikov</foaf:surname>
+                        <foaf:givenName>Sergey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barzilay</foaf:surname>
+                        <foaf:givenName>Regina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jaakkola</foaf:surname>
+                        <foaf:givenName>Tommi S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DiMaio</foaf:surname>
+                        <foaf:givenName>Frank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baek</foaf:surname>
+                        <foaf:givenName>Minkyung</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baker</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_36"/>
+        <link:link rdf:resource="#item_37"/>
+        <dc:title>De novo design of protein structure and function with RFdiffusion</dc:title>
+        <dcterms:abstract>There has been considerable recent progress in designing new proteins using deep-learning methods–. Despite this progress, a general deep-learning framework for protein design that enables solution of a wide range of design challenges, including de novo binder design and design of higher-order symmetric architectures, has yet to be described. Diffusion models, have had considerable success in image and language generative modelling but limited success when applied to protein modelling, probably due to the complexity of protein backbone geometry and sequence–structure relationships. Here we show that by fine-tuning the RoseTTAFold structure prediction network on protein structure denoising tasks, we obtain a generative model of protein backbones that achieves outstanding performance on unconditional and topology-constrained protein monomer design, protein binder design, symmetric oligomer design, enzyme active site scaffolding and symmetric motif scaffolding for therapeutic and metal-binding protein design. We demonstrate the power and generality of the method, called RoseTTAFold diffusion (RFdiffusion), by experimentally characterizing the structures and functions of hundreds of designed symmetric assemblies, metal-binding proteins and protein binders. The accuracy of RFdiffusion is confirmed by the cryogenic electron microscopy structure of a designed binder in complex with influenza haemagglutinin that is nearly identical to the design model. In a manner analogous to networks that produce images from user-specified inputs, RFdiffusion enables the design of diverse functional proteins from simple molecular specifications., Fine-tuning the RoseTTAFold structure prediction network on protein structure denoising tasks yields a generative model for protein design that achieves outstanding performance on a wide range of protein structure and function design challenges.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC10468394/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 15:21:59</dcterms:dateSubmitted>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <bib:pages>1089-1100</bib:pages>
+        <z:PMID>37433327</z:PMID>
+        <z:PMCID>PMC10468394</z:PMCID>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0028-0836">
+        <dc:identifier>DOI 10.1038/s41586-023-06415-8</dc:identifier>
+        <prism:volume>620</prism:volume>
+        <dc:title>Nature</dc:title>
+        <dc:identifier>ISSN 0028-0836</dc:identifier>
+        <prism:number>7976</prism:number>
+        <dcterms:alternative>Nature</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_36">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Catalog Page</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC10468394/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 15:21:59</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_37">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/37/Watson et al. - 2023 - De novo design of protein structure and function with RFdiffusion.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC10468394/pdf/41586_2023_Article_6415.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 15:22:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pmc.ncbi.nlm.nih.gov/articles/PMC12852815/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.1038/s41467-025-67866-3</dc:identifier>
+                <prism:volume>17</prism:volume>
+                <dc:title>Nature Communications</dc:title>
+                <dc:identifier>ISSN 2041-1723</dc:identifier>
+                <dcterms:alternative>Nat Commun</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sappington</foaf:surname>
+                        <foaf:givenName>Isaac</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Toul</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>David S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robinson</foaf:surname>
+                        <foaf:givenName>Stephanie A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goreshnik</foaf:surname>
+                        <foaf:givenName>Inna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCurdy</foaf:surname>
+                        <foaf:givenName>Clara</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chan</foaf:surname>
+                        <foaf:givenName>Tung Ching</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buchholz</foaf:surname>
+                        <foaf:givenName>Nic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Buwei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vafeados</foaf:surname>
+                        <foaf:givenName>Dionne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garcia-Sanchez</foaf:surname>
+                        <foaf:givenName>Mariana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roullier</foaf:surname>
+                        <foaf:givenName>Nicole</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Glögl</foaf:surname>
+                        <foaf:givenName>Matthias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Christopher J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Watson</foaf:surname>
+                        <foaf:givenName>Joseph L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Torres</foaf:surname>
+                        <foaf:givenName>Susana Vázquez</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verschueren</foaf:surname>
+                        <foaf:givenName>Koen H. G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verstraete</foaf:surname>
+                        <foaf:givenName>Kenneth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hinck</foaf:surname>
+                        <foaf:givenName>Cynthia S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Benard-Valle</foaf:surname>
+                        <foaf:givenName>Melisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coventry</foaf:surname>
+                        <foaf:givenName>Brian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sims</foaf:surname>
+                        <foaf:givenName>Jeremiah Nelson</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahn</foaf:surname>
+                        <foaf:givenName>Green</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Xinru</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hinck</foaf:surname>
+                        <foaf:givenName>Andrew P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jenkins</foaf:surname>
+                        <foaf:givenName>Timothy P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ruohola-Baker</foaf:surname>
+                        <foaf:givenName>Hannele</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Banik</foaf:surname>
+                        <foaf:givenName>Steven M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Savvides</foaf:surname>
+                        <foaf:givenName>Savvas N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baker</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_39"/>
+        <link:link rdf:resource="#item_40"/>
+        <dc:title>Improved protein binder design using β-pairing targeted RFdiffusion</dc:title>
+        <dcterms:abstract>Designing proteins that bind with high affinity to hydrophilic protein target sites remains a challenging problem. Here we show that RFdiffusion can be conditioned to generate protein scaffolds that form geometrically matched extended β-sheets with target protein edge β-strands in which polar groups on the target are complemented with hydrogen bonding groups on the design. We use this approach to design binders against edge-strand target sites on KIT, PDGFRɑ, ALK-2, ALK-3, FCRL5, NRP1, and α-CTX, and obtain higher (pM to mid nM) affinities and success rates than unconditioned RFdiffusion. Despite sharing β-strand interactions, designs have high specificity, reflecting the precise customization of interacting β-strand geometry and additional designed binder-target interactions. A binder-KIT co-crystal structure is nearly identical to the design model, confirming the accuracy of the design approach. The ability to robustly generate binders to the hydrophilic interaction surfaces of exposed β-strands considerably increases the range of computational binder design., This study demonstrates the capability of deep learning protein design models in generating functionally validated β-strand pairing interfaces, expanding the structural diversity of de novo binding proteins and accessible target surfaces.</dcterms:abstract>
+        <dc:date>2026-1-10</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC12852815/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 15:22:35</dcterms:dateSubmitted>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <bib:pages>1101</bib:pages>
+        <z:PMID>41519838</z:PMID>
+        <z:PMCID>PMC12852815</z:PMCID>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_39">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Catalog Page</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC12852815/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 15:22:35</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_40">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/40/Sappington et al. - 2026 - Improved protein binder design using β-pairing targeted RFdiffusion.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC12852815/pdf/41467_2025_Article_67866.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 15:22:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pmc.ncbi.nlm.nih.gov/articles/PMC12633288/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2692-8205"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prakash</foaf:surname>
+                        <foaf:givenName>Varshika Ram</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Najy</foaf:surname>
+                        <foaf:givenName>Yusuf</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garrett</foaf:surname>
+                        <foaf:givenName>Kalel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Edwards</foaf:surname>
+                        <foaf:givenName>Brian F.P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kidder</foaf:surname>
+                        <foaf:givenName>Benjamin L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_42"/>
+        <link:link rdf:resource="#item_43"/>
+        <dc:title>De novo protein design enables targeting of intractable oncogenic interfaces</dc:title>
+        <dcterms:abstract>Protein-protein interactions (PPIs) involving oncogenic drivers remain among the most intractable targets in cancer biology due to their dynamic conformations and limited accessibility to conventional small molecules. Although antibodies and indirect inhibitors have achieved clinical success against targets such as PD-1/PD-L1 and MYC, challenges persist related to tissue penetration, intracellular delivery, resistance, and incomplete blockade of key interface hotspots. Here, we present DesignForge, an integrated de novo protein design framework that combines deep-learning-based structure generation, sequence optimization, and energetic hotspot mapping to create compact miniprotein binders for PPIs. Using this approach, we engineered PD-1 mimetics predicted to disrupt the PD-1/PD-L1 immune checkpoint, designed scaffolds targeting the MYC/MAX dimerization interface, and generated KRAS binders in a manner predicted to occlude RAF interaction. The top designs showed high structural confidence by AlphaFold2, favorable stability metrics, and consistent hotspot engagement identified through MOE-based analyses. Collectively, these results establish DesignForge as a generalizable in silico platform for rational design of therapeutic protein binders that extend beyond antibody and small-molecule modalities to systematically target intractable oncogenic PPIs.</dcterms:abstract>
+        <dc:date>2025-10-23</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC12633288/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 15:23:23</dcterms:dateSubmitted>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <bib:pages>2025.10.22.683953</bib:pages>
+        <z:PMID>41278626</z:PMID>
+        <z:PMCID>PMC12633288</z:PMCID>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2692-8205">
+        <dc:identifier>DOI 10.1101/2025.10.22.683953</dc:identifier>
+        <dc:title>bioRxiv</dc:title>
+        <dc:identifier>ISSN 2692-8205</dc:identifier>
+        <dcterms:alternative>bioRxiv</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_42">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Catalog Page</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC12633288/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 15:23:23</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_43">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/43/Prakash et al. - 2025 - De novo protein design enables targeting of intractable oncogenic interfaces.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC12633288/pdf/nihpp-2025.10.22.683953v1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-04 15:23:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://www.biorxiv.org/content/10.1101/2025.08.14.670059v2">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>bioRxiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Overath</foaf:surname>
+                        <foaf:givenName>Max D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rygaard</foaf:surname>
+                        <foaf:givenName>Andreas S. H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobsen</foaf:surname>
+                        <foaf:givenName>Christian P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brasas</foaf:surname>
+                        <foaf:givenName>Valentas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morell</foaf:surname>
+                        <foaf:givenName>Oliver</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sormanni</foaf:surname>
+                        <foaf:givenName>Pietro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jenkins</foaf:surname>
+                        <foaf:givenName>Timothy P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_46"/>
+        <dc:title>Predicting Experimental Success in De Novo Binder Design: A Meta-Analysis of 3,766 Experimentally Characterised Binders</dc:title>
+        <dcterms:abstract>Designing high-affinity de novo protein binders has become increasingly tractable, yet in vitro prioritisation continues to depend on heuristics in the absence of systematic analysis. Here, we present a large-scale meta-analysis of 3,766 experimentally tested binders across 15 structurally diverse targets. Using a unified, high-throughput pipeline that re-predicts each binder-target complex with AF2 (initial guess and ColabFold), AF3 and Boltz-1, we extract over 200 structural, energetic and confidence features per design. We show that interface-focused metrics, most notably the AF3-derived interaction prediction Score from Aligned Errors (ipSAE) outperform commonly used scores such as ipAE and ipTM, with a significant 1.4-fold increase in average precision compared to ipAE. We further show that combining these metrics with orthogonal physicochemical interface descriptors, including Rosetta ΔG/ΔSASA and interface shape complementarity, improves predictive performance. While overall per-formance varies by target, simple linear models trained on a small number of AF3-derived features generalize well across datasets. We propose interpretable, target-agnostic filtering strategies, such as combining AF3 ipSAE_min rankings with structural filters, to improve precision in selecting binders for testing. Finally, we release the complete dataset establishing a community resource to benchmark and accelerate de novo binder discovery.</dcterms:abstract>
+        <dc:date>2025-09-17</dc:date>
+        <dc:identifier>DOI 10.1101/2025.08.14.670059</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.biorxiv.org/content/10.1101/2025.08.14.670059v2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-10 15:25:19</dcterms:dateSubmitted>
+        <z:shortTitle>Predicting Experimental Success in De Novo Binder Design</z:shortTitle>
+        <z:language>en</z:language>
+        <z:libraryCatalog>bioRxiv</z:libraryCatalog>
+        <dc:rights>© 2025, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution-NonCommercial-NoDerivs 4.0 International), CC BY-NC-ND 4.0, as described at http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+        <dc:description>ISSN: 2692-8205
+Pages: 2025.08.14.670059
+Section: New Results</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/46/Overath et al. - 2025 - Predicting Experimental Success in De Novo Binder Design A Meta-Analysis of 3,766 Experimentally Ch.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.biorxiv.org/content/biorxiv/early/2025/09/17/2025.08.14.670059.full.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-10 15:25:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://www.biorxiv.org/content/10.1101/2025.09.10.675490v2">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>bioRxiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chacón-Sánchez</foaf:surname>
+                        <foaf:givenName>Carlos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>González-Rodríguez</foaf:surname>
+                        <foaf:givenName>Nayim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Llorca</foaf:surname>
+                        <foaf:givenName>Oscar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández-Leiro</foaf:surname>
+                        <foaf:givenName>Rafael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_48"/>
+        <dc:title>Automated and modular protein binder design with BinderFlow</dc:title>
+        <dcterms:abstract>Deep learning has revolutionised de novo protein design, with new models achieving unprecedented success in creating novel proteins with specific functions, including artificial protein binders. However, current methods remain computationally demanding and challenging to operate without specialised infrastructure and expertise. To overcome these limitations, we developed BinderFlow, a structured and parallelised pipeline for protein binder design. Its batch-basednature enables live monitoring of design campaigns, seamless coexistence with other GPU-intensive processes, and reduces human intervention. Furthermore, BinderFlow’s modular structure enables straightforward modifications to the design pipeline to incorporate new models and tools or to implement alternative design strategies. Complementing this, we developed BFmonitor, a web-based dashboard that simplifies campaign monitoring, design evaluation, and hit selection. Together, these tools lower the entry barrier for non-specialised users and streamline expert workflows, making generative protein design more accessible, scalable and practical for both exploratory and production-level research.</dcterms:abstract>
+        <dc:date>2025-09-18</dc:date>
+        <dc:identifier>DOI 10.1101/2025.09.10.675490</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.biorxiv.org/content/10.1101/2025.09.10.675490v2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-13 13:50:14</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>bioRxiv</z:libraryCatalog>
+        <dc:rights>© 2025, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution-NonCommercial-NoDerivs 4.0 International), CC BY-NC-ND 4.0, as described at http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+        <dc:description>ISSN: 2692-8205
+Pages: 2025.09.10.675490
+Section: New Results</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_48">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/48/Chacón-Sánchez et al. - 2025 - Automated and modular protein binder design with BinderFlow.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.biorxiv.org/content/biorxiv/early/2025/09/18/2025.09.10.675490.full.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-13 13:50:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/s41467-023-38328-5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.1038/s41467-023-38328-5</dc:identifier>
+                <prism:volume>14</prism:volume>
+                <dc:title>Nature Communications</dc:title>
+                <dc:identifier>ISSN 2041-1723</dc:identifier>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>Nat Commun</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Nature Publishing Group</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bennett</foaf:surname>
+                        <foaf:givenName>Nathaniel R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coventry</foaf:surname>
+                        <foaf:givenName>Brian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goreshnik</foaf:surname>
+                        <foaf:givenName>Inna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Buwei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenName>Aza</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vafeados</foaf:surname>
+                        <foaf:givenName>Dionne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peng</foaf:surname>
+                        <foaf:givenName>Ying Po</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dauparas</foaf:surname>
+                        <foaf:givenName>Justas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baek</foaf:surname>
+                        <foaf:givenName>Minkyung</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stewart</foaf:surname>
+                        <foaf:givenName>Lance</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DiMaio</foaf:surname>
+                        <foaf:givenName>Frank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Munck</foaf:surname>
+                        <foaf:givenName>Steven</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Savvides</foaf:surname>
+                        <foaf:givenName>Savvas N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baker</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_50"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Proteins</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Machine learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Protein design</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Protein folding</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Protein structure predictions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Improving de novo protein binder design with deep learning</dc:title>
+        <dcterms:abstract>Recently it has become possible to de novo design high affinity protein binding proteins from target structural information alone. There is, however, considerable room for improvement as the overall design success rate is low. Here, we explore the augmentation of energy-based protein binder design using deep learning. We find that using AlphaFold2 or RoseTTAFold to assess the probability that a designed sequence adopts the designed monomer structure, and the probability that this structure binds the target as designed, increases design success rates nearly 10-fold. We find further that sequence design using ProteinMPNN rather than Rosetta considerably increases computational efficiency. Recently, a pipeline for the design of protein-binding proteins using only the structure of the target protein was reported. Here, the authors report that the incorporation of deep learning methods into the original pipeline increases experimental success rate by ten-fold.</dcterms:abstract>
+        <dc:date>2023-05-06</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41467-023-38328-5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-13 13:50:48</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.nature.com</z:libraryCatalog>
+        <dc:rights>2023 The Author(s)</dc:rights>
+        <bib:pages>2625</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_50">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/50/Bennett et al. - 2023 - Improving de novo protein binder design with deep learning.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41467-023-38328-5.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-13 13:50:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://pmc.ncbi.nlm.nih.gov/articles/PMC12727541/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_54"/>
+        <dc:title>Atomically accurate de novo design of antibodies with RFdiffusion - PMC</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC12727541/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-16 14:57:27</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_54">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/54/PMC12727541.html"/>
+        <dc:title>Atomically accurate de novo design of antibodies with RFdiffusion - PMC</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC12727541/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-16 14:57:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pmc.ncbi.nlm.nih.gov/articles/PMC12982892/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2451-9456"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Jason Z.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Xinting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Batingana</foaf:surname>
+                        <foaf:givenName>Alexa Rane</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Caixuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jiang</foaf:surname>
+                        <foaf:givenName>Hanlun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shannon</foaf:surname>
+                        <foaf:givenName>Kevin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Benjamin J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenName>Kejia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baker</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_56"/>
+        <link:link rdf:resource="#item_57"/>
+        <dc:title>De novo design of Ras isoform selective binders</dc:title>
+        <dcterms:abstract>RAS proto-oncogenes encode four major isoforms with substantial sequence homology and similar in vitro biochemical properties. Although Ras isoforms are differentially associated with cancer, there are few isoform-specific binding reagents because their sequence differences are confined to disordered C-termini. To overcome this limitation, we use deep learning-based methods to design Ras isoform-specific binders (RIBs) for all major Ras isoforms de novo by targeting the Ras C-terminus. The RIBs bind to their target Ras isoforms both in vitro and in cells with remarkable specificity, disrupting their membrane localization, and inhibiting Ras activity. The RIBs enable dissection of the distinct roles of Ras isoforms during RasG12C inhibitor resistance, demonstrating their utility in understanding Ras biology and disease and suggesting potential therapeutic applications.,</dcterms:abstract>
+        <dc:date>2026-3-11</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC12982892/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-18 14:50:23</dcterms:dateSubmitted>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <bib:pages>S2451-9456(26)00063-2</bib:pages>
+        <z:PMID>41819089</z:PMID>
+        <z:PMCID>PMC12982892</z:PMCID>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2451-9456">
+        <dc:identifier>DOI 10.1016/j.chembiol.2026.02.008</dc:identifier>
+        <dc:title>Cell chemical biology</dc:title>
+        <dc:identifier>ISSN 2451-9456</dc:identifier>
+        <dcterms:alternative>Cell Chem Biol</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_56">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Catalog Page</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC12982892/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-18 14:50:23</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_57">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/57/Zhang et al. - 2026 - De novo design of Ras isoform selective binders.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC12982892/pdf/nihms-2151717.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-18 14:50:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/s41467-026-70667-x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.1038/s41467-026-70667-x</dc:identifier>
+                <dc:title>Nature Communications</dc:title>
+                <dc:identifier>ISSN 2041-1723</dc:identifier>
+                <dcterms:alternative>Nat Commun</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Nature Publishing Group</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Min</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Ningning</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fu</foaf:surname>
+                        <foaf:givenName>Xiaoyan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wei</foaf:surname>
+                        <foaf:givenName>Gege</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Ze</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yu</foaf:surname>
+                        <foaf:givenName>Yanghan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xue</foaf:surname>
+                        <foaf:givenName>Tianshui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Yifei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pan</foaf:surname>
+                        <foaf:givenName>Jinheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Dongfeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Meifang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tang</foaf:surname>
+                        <foaf:givenName>Jinbao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cao</foaf:surname>
+                        <foaf:givenName>Longxing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jian</foaf:surname>
+                        <foaf:givenName>Zhaocheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liang</foaf:surname>
+                        <foaf:givenName>Shujuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yu</foaf:surname>
+                        <foaf:givenName>Bowen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Protein design</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Phenotypic screening</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>X-ray crystallography</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Design of miniprotein inhibitors targeting complement C9 to block membrane attack complex assembly</dc:title>
+        <dcterms:abstract>The abnormal formation of the membrane attack complex (MAC) is intrinsically linked to a range of acute and chronic immune diseases. The insertion of complement C9 into the membrane is the final step and kinetic bottleneck of MAC formation. However, research on blocking the MAC formation of C9 is currently limited. Given its broad, flat, and polar functional interface, complement C9 is a challenging target for rational design. Here, we utilize deep learning-based methods for protein scaffold generation, sequence design, and complex structure prediction to de novo design mini-protein inhibitors that specifically block the membrane insertion of soluble complement C9. The binding affinity of the mini-protein inhibitor is further optimized to 700 pM via partial diffusion. Design accuracy and binding specificity are verified through X-ray crystallography and biochemical studies. An in vivo acute hemolysis inhibition assay reveals that the C9 mini-protein inhibitors remain effective against hemolysis even 8 minutes after complement activation, outperforming the complement C5 inhibitor eculizumab. The de novo designed C9 mini-protein inhibitors can offer an optional therapeutic approach for the prevention and treatment of acute or chronic immune diseases associated with abnormal complement activation.</dcterms:abstract>
+        <dc:date>2026-03-12</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41467-026-70667-x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-19 08:29:35</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.nature.com</z:libraryCatalog>
+        <dc:rights>2026 The Author(s)</dc:rights>
+    </bib:Article>
+</rdf:RDF>
